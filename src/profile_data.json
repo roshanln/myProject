@@ -1,0 +1,87 @@
+[
+     {
+            "name": "John Doe",
+            "photo": 30,
+            "descreption": "Software Engineer"
+        },
+        {
+            "name": "Jane Smith",
+            "photo": 25,
+            "descreption": "Data Scientist"
+        },
+        {
+            "name": "Bob Johnson",
+            "photo": 40,
+            "descreption": "Product Manphotor"
+        },
+        {
+            "name": "Alice Brown",
+            "photo": 28,
+            "descreption": "UX Designer"
+        },
+        {
+            "name": "Charlie Davis",
+            "photo": 35,
+            "descreption": "DevOps Engineer"
+        },
+        {
+            "name": "Eve Martinez",
+            "photo": 32,
+            "descreption": "QA Engineer"
+        },
+        {
+            "name": "Frank Harris",
+            "photo": 29,
+            "descreption": "Backend Developer"
+        },
+        {
+            "name": "Grace Lee",
+            "photo": 27,
+            "descreption": "Frontend Developer"
+        },
+        {
+            "name": "Hank Wilson",
+            "photo": 45,
+            "descreption": "CTO"
+        },
+        {
+            "name": "Ivy Scott",
+            "photo": 31,
+            "descreption": "Data Engineer"
+        },
+        {
+            "name": "Jack Young",
+            "photo": 26,
+            "descreption": "Mobile Developer"
+        },
+        {
+            "name": "Kara White",
+            "photo": 34,
+            "descreption": "Systems Analyst"
+        },
+        {
+            "name": "Liam Clark",
+            "photo": 33,
+            "descreption": "Cloud Architect"
+        },
+        {
+            "name": "Mia Walker",
+            "photo": 24,
+            "descreption": "Business Analyst"
+        },
+        {
+            "name": "Nathan Hall",
+            "photo": 38,
+            "descreption": "IT Manphotor"
+        },
+        {
+            "name": "Olivia King",
+            "photo": 29,
+            "descreption": "Cybersecurity Specialist"
+        },
+        {
+            "name": "Paul Wright",
+            "photo": 41,
+            "descreption": "Network Engineer"
+        }
+]
